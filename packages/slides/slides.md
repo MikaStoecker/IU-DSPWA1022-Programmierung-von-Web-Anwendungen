@@ -437,3 +437,87 @@ src: ./slides/01160-task-spring-data-relations.md
 ---
 src: ./slides/01161-task-spring-data-relations-details.md
 ---
+
+---
+src: ./slides/01170-db-intro.md
+---
+
+---
+src: ./slides/01172-db-basics.md
+---
+
+---
+src: ./slides/01173-db-basics-1-sql.md
+---
+
+---
+src: ./slides/01174-db-basics-2.md
+---
+
+---
+src: ./slides/01178-task-explore-course-db.md
+---
+
+---
+src: ./slides/01179-task-explore-course-db-details.md
+---
+
+---
+src: ./slides/01182-db-spring-pg-connection.md
+---
+
+---
+src: ./slides/01184-db-spring-pg-connection-entities.md
+---
+
+---
+src: ./slides/01186-db-spring-pg-connection-repositories.md
+---
+
+---
+src: ./slides/01188-db-spring-pg-connection-controllers.md
+---
+
+---
+src: ./slides/01190-demo-db-spring-pg.md
+---
+
+---
+src: ./slides/01192-db-spring-pg-insert-data.md
+---
+
+---
+src: ./slides/01194-db-spring-pg-update-data.md
+---
+
+---
+src: ./slides/01196-task-db-spring-pg-write-data.md
+---
+
+---
+src: ./slides/01197-task-db-spring-pg-write-data-details.md
+---
+
+---
+src: ./slides/01210-spring-outro-1.md
+---
+
+---
+src: ./slides/01300-alternative-apis.md
+---
+
+---
+src: ./slides/01302-alternative-apis-intro.md
+---
+
+---
+src: ./slides/01304-alternative-apis-express.md
+---
+
+---
+src: ./slides/01306-alternative-apis-express-post.md
+---
+
+---
+src: ./slides/01310-demo-express.md
+---

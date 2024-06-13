@@ -1,15 +1,18 @@
 package org.iu.dspwa1022.store.model;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.UUID;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(schema = "dspwa1022", name = "product")
-public class Product {
+@Table(schema = "dspwa1022", name = "customer")
+public class Customer {
 
     @Id
     @GeneratedValue
@@ -17,16 +20,10 @@ public class Product {
 
     private String name;
 
-    // Use Float instead of float to allow null values
-    private Float price;
+    private String email;
 
-    public Float getPrice() {
-        return price;
-    }
-
-    public void setPrice(Float price) {
-        this.price = price;
-    }
+    @OneToMany(mappedBy = "customer")
+    private List<Order> orders = new ArrayList<>();
 
     public UUID getId() {
         return id;
@@ -42,6 +39,14 @@ public class Product {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
     }
 
 }
