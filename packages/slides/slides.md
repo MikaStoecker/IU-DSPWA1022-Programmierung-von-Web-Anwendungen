@@ -511,6 +511,62 @@ src: ./slides/01302-alternative-apis-intro.md
 ---
 
 ---
+src: ./slides/01302-0100-js-intro.md
+---
+
+---
+src: ./slides/01302-0102-js-data-types.md
+---
+
+---
+src: ./slides/01302-0104-js-objects.md
+---
+
+---
+src: ./slides/01302-0106-js-arrays.md
+---
+
+---
+src: ./slides/01302-0107-js-let-const-var.md
+---
+
+---
+src: ./slides/01302-0108-js-functions.md
+---
+
+---
+src: ./slides/01302-0110-js-arrow-functions.md
+---
+
+---
+src: ./slides/01302-0114-js-promises.md
+---
+
+---
+src: ./slides/01302-0115-js-promises-async-await.md
+---
+
+---
+src: ./slides/01302-0120-js-execution-browser.md
+---
+
+---
+src: ./slides/01302-0122-js-execution-node.md
+---
+
+---
+src: ./slides/01302-0200-ts-intro.md
+---
+
+---
+src: ./slides/01302-0202-ts-intro-2.md
+---
+
+---
+src: ./slides/01302-0204-ts-intro-3.md
+---
+
+---
 src: ./slides/01304-alternative-apis-express.md
 ---
 
@@ -660,4 +716,40 @@ src: ./slides/01440-task-nestjs.md
 
 ---
 src: ./slides/01442-task-nestjs-details.md
+---
+
+---
+src: ./slides/01600-frontend.md
+---
+
+---
+src: ./slides/01602-frontend-intro.md
+---
+
+---
+src: ./slides/01604-frontend-webhosting.md
+---
+
+---
+src: ./slides/01610-html-basics.md
+---
+
+---
+src: ./slides/01612-html-semantics.md
+---
+
+---
+src: ./slides/01640-css-basics.md
+---
+
+---
+src: ./slides/01644-css-cascading.md
+---
+
+---
+src: ./slides/01650-demo-html-css.md
+---
+
+---
+src: ./slides/99999-end.md
 ---
