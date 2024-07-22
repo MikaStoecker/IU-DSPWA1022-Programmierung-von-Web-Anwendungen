@@ -739,6 +739,10 @@ src: ./slides/01612-html-semantics.md
 ---
 
 ---
+src: ./slides/01620-devtools.md
+---
+
+---
 src: ./slides/01640-css-basics.md
 ---
 
@@ -747,7 +751,267 @@ src: ./slides/01644-css-cascading.md
 ---
 
 ---
+src: ./slides/01646-css-classes.md
+---
+
+---
 src: ./slides/01650-demo-html-css.md
+---
+
+---
+src: ./slides/01700-exam.md
+---
+
+---
+src: ./slides/01702-exam-details.md
+---
+
+---
+src: ./slides/01800-github-pages.md
+---
+
+---
+src: ./slides/01802-github-pages-intro.md
+---
+
+---
+src: ./slides/01810-task-gh-pages.md
+---
+
+---
+src: ./slides/01812-task-gh-pages-details.md
+---
+
+---
+src: ./slides/01850-local-development.md
+---
+
+---
+src: ./slides/01852-local-development-basics.md
+---
+
+---
+src: ./slides/01854-local-development-tools.md
+---
+
+---
+src: ./slides/01900-css-frameworks.md
+---
+
+---
+src: ./slides/01902-css-frameworks-intro.md
+---
+
+---
+src: ./slides/01904-bootstrap.md
+---
+
+---
+src: ./slides/01906-bootstrap-container.md
+---
+
+---
+src: ./slides/01908-bootstrap-grid.md
+---
+
+---
+src: ./slides/01910-bootstrap-breakpoints.md
+---
+
+---
+src: ./slides/01920-bootstrap-reboot.md
+---
+
+---
+src: ./slides/01930-bootstrap-components.md
+---
+
+---
+src: ./slides/01934-bootstrap-utils.md
+---
+
+---
+src: ./slides/01950-task-bootstrap.md
+---
+
+---
+src: ./slides/01952-task-bootstrap-details.md
+---
+
+---
+src: ./slides/01956-demo-bootstrap-components.md
+---
+
+---
+src: ./slides/01958-task-bootstrap-components.md
+---
+
+---
+src: ./slides/01960-task-bootstrap-components-details.md
+---
+
+---
+src: ./slides/01975-tailwind.md
+---
+
+---
+src: ./slides/01976-tailwind-examples.md
+---
+
+---
+src: ./slides/01977-tailwind-breakpoints.md
+---
+
+---
+src: ./slides/01978-tailwind-installation.md
+---
+
+---
+src: ./slides/01980-demo-tailwind.md
+---
+
+---
+src: ./slides/01982-task-tailwind.md
+---
+
+---
+src: ./slides/01984-task-tailwind-details.md
+---
+
+---
+src: ./slides/01999-javascript-important-parts.md
+---
+
+---
+src: ./slides/02000-javascript-fetch.md
+---
+
+---
+src: ./slides/02002-javascript-fetch-post.md
+---
+
+---
+src: ./slides/02010-task-fetch.md
+---
+
+---
+src: ./slides/02012-task-fetch-details.md
+---
+
+---
+src: ./slides/02013-1-date.md
+---
+
+---
+src: ./slides/02013-math.md
+---
+
+---
+src: ./slides/02014-1-map.md
+---
+
+---
+src: ./slides/02014-2-set.md
+---
+
+---
+src: ./slides/02014-timeout-interval.md
+---
+
+---
+src: ./slides/02016-getElementById.md
+---
+
+---
+src: ./slides/02018-querySelector.md
+---
+
+---
+src: ./slides/02020-history.md
+---
+
+---
+src: ./slides/02022-storage.md
+---
+
+---
+src: ./slides/02024-cookies.md
+---
+
+---
+src: ./slides/02026-visibility-state.md
+---
+
+---
+src: ./slides/02028-media-queries.md
+---
+
+---
+src: ./slides/02050-webcomponents.md
+---
+
+---
+src: ./slides/02052-webcomponents-intro.md
+---
+
+---
+src: ./slides/02054-webcomponents-shadow-dom.md
+---
+
+---
+src: ./slides/02060-task-webcomponents.md
+---
+
+---
+src: ./slides/02062-task-webcomponents-details.md
+---
+
+---
+src: ./slides/02100-frontend-frameworks.md
+---
+
+---
+src: ./slides/02102-frontend-frameworks-intro.md
+---
+
+---
+src: ./slides/02200-react-intro.md
+---
+
+---
+src: ./slides/02202-react-data.md
+---
+
+---
+src: ./slides/02204-react-conditional-rendering.md
+---
+
+---
+src: ./slides/02206-react-lists.md
+---
+
+---
+src: ./slides/02208-react-events.md
+---
+
+---
+src: ./slides/02210-react-state.md
+---
+
+---
+src: ./slides/02212-react-state-shared.md
+---
+
+---
+src: ./slides/02220-demo-react.md
+---
+
+---
+src: ./slides/02225-task-react.md
+---
+
+---
+src: ./slides/02226-task-react-details.md
 ---
 
 ---
